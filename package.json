@@ -1,0 +1,28 @@
+{
+  "name": "aplikasi-super",
+  "version": "1.0.0",
+  "description": "aplikasi super test",
+  "main": "-",
+  "scripts": {
+    "test": "npx jest --collect-coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diazkautsar/aplikasi-super-test.git"
+  },
+  "author": "Diaz Kautsar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/diazkautsar/aplikasi-super-test/issues"
+  },
+  "homepage": "https://github.com/diazkautsar/aplikasi-super-test#readme",
+  "devDependencies": {
+    "@types/jest": "^29.5.0",
+    "jest": "^29.5.0",
+    "ts-jest": "^29.0.5"
+  },
+  "dependencies": {
+    "ts-node": "^10.9.1",
+    "typescript": "^5.0.2"
+  }
+}
